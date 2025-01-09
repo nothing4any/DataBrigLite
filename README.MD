@@ -1,6 +1,6 @@
 # DataBrigLite - 数据桥梁轻量化平台
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nothing4any/DataBrig/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nothing4any/DataBrigLite//LICENSE)
 [![FastAPI](https://img.shields.io/badge/Framework-FastAPI%200.68.2-brightgreen.svg)](https://fastapi.tiangolo.com/)
 [![Vue.js](https://img.shields.io/badge/Frontend-Vue.js%203.2.31-%234FC08D.svg)](https://v3.vuejs.org/)
 [![GitHub issues](https://img.shields.io/github/issues/nothing4any/DataBrigLite.svg)](https://github.com/nothing4any/DataBrigLite/issues)
