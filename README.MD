@@ -38,19 +38,19 @@
 大致功能展示：
 - 主页公共功能页
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/docs/img/home.png)
+  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/home.png)
 
 - 业务人员处理界面
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/docs/img/业务人员处理.PNG.png)
+  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/业务人员处理.PNG.png)
 
 - 数据人员工作空间
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/docs/img/数据人员工作空间.PNG.png)
+  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/数据人员工作空间.PNG.png)
 
 - 数据处理界面
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/docs/img/数据处理.PNG.png)
+  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/数据处理.PNG.png)
 
 ## 快速开始
 
@@ -116,10 +116,10 @@ DataBrigLite
 
 
 ## 使用文档 - 配置
-详细的使用文档位于链接到使用文档。该文档包含数据库及redis配置的指导[CONFIG.md](https://github.com/nothing4any/DataBrigLite/docs/CONFIG.md) 。
+详细的使用文档位于链接到使用文档。该文档包含数据库及redis配置的指导[CONFIG.md](https://github.com/nothing4any/DataBrigLite/tree/main/docs/CONFIG.md) 。
 
 ## 贡献
-我们欢迎任何形式的贡献！如果您发现了bug或者有改进建议，请提交issue或pull request。更多详情请参阅[CONTRIBUTING.md](https://github.com/nothing4any/DataBrigLite/docs/CONTRIBUTING.md) 。
+我们欢迎任何形式的贡献！如果您发现了bug或者有改进建议，请提交issue或pull request。更多详情请参阅[CONTRIBUTING.md](https://github.com/nothing4any/DataBrigLite/tree/main/docs/CONTRIBUTING.md) 。
 
 ## 许可证
 本项目采用MIT License许可，详情请参阅 [LICENSE](https://github.com/nothing4any/DataBrigLite/LICENSE) 文件。
