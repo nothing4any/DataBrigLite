@@ -16,7 +16,7 @@ import sys
 
 from utils.logger import main_log
 
-is_redis = False
+is_redis = settings.IS_REDIS
 """
 本地缓存支持1000人登录
 # 添加缓存项

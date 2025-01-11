@@ -11,6 +11,7 @@
 - [特性](#特性)
 - [快速开始](#快速开始)
   - [安装](#安装)
+  - [未完成功能](#未完成功能)
 - [使用文档](#使用文档)
 - [贡献](#贡献)
 - [许可证](#许可证)
@@ -110,8 +111,9 @@ DataBrigLite
         uvicorn main:app --reload
         ```
     
+## 未完成功能
 
-
+   - admin账户操作流程
 
 ## 使用文档 - 配置
 详细的使用文档位于链接到使用文档。该文档包含数据库及redis配置的指导[CONFIG.md](https://github.com/nothing4any/DataBrigLite/tree/main/docs/CONFIG.md) 。
