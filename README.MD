@@ -40,15 +40,15 @@
 
 - 业务人员处理界面
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/业务人员处理.PNG)
+  ![DataBrigLite](./docs/img/业务人员处理.PNG)
 
 - 数据人员工作空间
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/数据人员工作空间.PNG)
+  ![DataBrigLite](./docs/img/数据人员工作空间.PNG)
 
 - 数据处理界面
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/数据处理.PNG)
+  ![DataBrigLite](./docs/img/数据处理.PNG)
 
 ## 快速开始
 
