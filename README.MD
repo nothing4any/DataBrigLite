@@ -11,8 +11,6 @@
 - [特性](#特性)
 - [快速开始](#快速开始)
   - [安装](#安装)
-  - [配置](#配置)
-  - [运行](#运行)
 - [使用文档](#使用文档)
 - [贡献](#贡献)
 - [许可证](#许可证)
@@ -38,7 +36,7 @@
 大致功能展示：
 - 主页公共功能页
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/home.PNG)
+  ![DataBrigLite](./docs/img/home.PNG)
 
 - 业务人员处理界面
 
@@ -83,7 +81,7 @@ DataBrigLite
     npm install
     ```
 7. 运行服务:
-    ---
+
     一、前后端分离启动
       - 启动后端服务:
           ```
