@@ -38,7 +38,7 @@
 大致功能展示：
 - 主页公共功能页
 
-  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/home.png)
+  ![DataBrigLite](https://github.com/nothing4any/DataBrigLite/tree/main/docs/img/home.PNG)
 
 - 业务人员处理界面
 
