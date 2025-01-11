@@ -16,5 +16,5 @@ async def getId(sequenceId):
         , "datacenterId": 1
         , "sequenceId": sequenceId
             }
-    res = requests.post(url='http://solonight.top:8000/getDatabaseId', json=data)
+    res = requests.post(url='http://hostname:port/getDatabaseId', json=data)
     return res.json()["databaseId"]

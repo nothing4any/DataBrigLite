@@ -9,11 +9,11 @@ class Settings(BaseSettings):
     BASE_DIR: Path = Path(__file__).resolve().parent.parent
 
     # 数据库配置 - 使用 mysql
-    DBIP: str = "solonight.top"
-    DBPORT: str = "6010"
-    DBUSER: str = "dataplatform"
-    DBPWD: str = "dataplatform@1"
-    DBDATABASE: str = "dataplatform"
+    DBIP: str = "hostname"
+    DBPORT: str = "port"
+    DBUSER: str = "user"
+    DBPWD: str = "password"
+    DBDATABASE: str = "database"
     DBMINSIZE: int = 100
     DBMAXSIZE: int = 300
 
@@ -24,9 +24,10 @@ class Settings(BaseSettings):
     LOG_RETENTION_DAYS: int = 30
 
     # redis
-    REDISIP: str = "solonight.top"
-    REDISPORT: str = "6012"
-    REDISPWD: str = "redis@1"
+    IS_REDIS: bool = False
+    REDISIP: str = "hostname"
+    REDISPORT: str = "port"
+    REDISPWD: str = "password"
 
     # create tables
     IS_CREATE_TABLE: bool = False
