@@ -24,6 +24,7 @@
 - LOG_RETENTION_DAYS: int = 30
 
 ### redis
+- IS_REDIS: bool = False
 - REDISIP: str = "hostname"
 - REDISPORT: str = "port"
 - REDISPWD: str = "password"

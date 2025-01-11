@@ -54,8 +54,8 @@
 
 加入我们的社区聊天室或邮件列表，与其他贡献者互动，分享经验，解决问题。您可以通过以下方式联系我们：
 
-- [GitHub Discussions](https://github.com/nothing4any/DataBrig/discussions)
-- [邮件列表](nothing4any@hotmail.com)
+- [GitHub Discussions](https://github.com/nothing4any/DataBrigLite/discussions)
+- 邮件 nothing4any@hotmail.com
 
 再次感谢您对 **DataBrig** 的支持！我们期待着您的贡献！
 
